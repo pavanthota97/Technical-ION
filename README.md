@@ -15,6 +15,8 @@
 **trn**    --- Module
 **9500**   --- Table Code with Session Type
 
+**synchronized** Opening of one Session through another session **or** Opening of child session from parent session.
+
 
 **Form Commands**  If we select a record and click on the action, that is referred to as a "form command."
 **Form fiels**    The fields that are not in the table are called form fields.
