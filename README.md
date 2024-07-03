@@ -19,10 +19,17 @@
 **Form Commands**  If we select a record and click on the action, that is referred to as a "form command."
 **Form fiels**    The fields that are not in the table are called form fields.
 
+	Types of synchronization
+ 			1.Dialog Synchroniztion
+    			2.Child Synchronization
+
+
 **synchronized** Opening of one Session through another session **or** Opening of child session from parent session.
 
-**Syntax**              before.program:
+**Syntax for Dialog Synchronization**              before.program:
 	set.synchronized.dialog("tctrn9100m000",false,false)
+
+ 
 
 **Shortcuts BECS**
 --> To know the Table information (Ctrl + '0')
