@@ -34,3 +34,4 @@
 **Shortcuts BECS**
 --> To know the Table information (Ctrl + '0')
 --> In BECS Environment to know the programmers mode (Shift '+' 8)
+--> (Ctrl'+'B) is for zoom.
