@@ -21,6 +21,9 @@
 
 **synchronized** Opening of one Session through another session **or** Opening of child session from parent session.
 
+**Syntax**              before.program:
+	set.synchronized.dialog("tctrn9100m000",false,false)
+
 **Shortcuts BECS**
 --> To know the Table information (Ctrl + '0')
 --> In BECS Environment to know the programmers mode (Shift '+' 8)
