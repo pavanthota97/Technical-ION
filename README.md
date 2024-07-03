@@ -18,3 +18,7 @@
 
 **Form Commands**  If we select a record and click on the action, that is referred to as a "form command."
 **Form fiels**    The fields that are not in the table are called form fields.
+
+**Shortcuts BECS**
+--> To know the Table information (Ctrl + '0')
+--> In BECS Environment to know the programmers mode (Shift '+' 8)
