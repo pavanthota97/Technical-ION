@@ -1,4 +1,12 @@
 # Technical-ION
+**Sessions**
+Maintain Session
+Update Session
+Charts/Pie Session
+Print Session
+Display Session
+
+
 **Window Types**  -- **8** Types
 
 	--> List Window
@@ -9,7 +17,11 @@
     	--> Wizard
      	--> Parameter
       	--> Multi Main Table
-       
+
+**Synchroniztion** 2 Types of synchronization
+ 			1.Dialog Synchroniztion
+    			2.Child Synchronization
+
 
 
 **Main Table**              **Session**         **Session Type**      **Standard Commands**           **Window types**
