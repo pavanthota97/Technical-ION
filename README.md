@@ -52,6 +52,15 @@ Display Session
 **Syntax for Dialog Synchronization**              before.program:
 	set.synchronized.dialog("tctrn9100m000",false,false)
 
+ **Script Types**	**8** Types
+		--> UI Script with Database Handling
+  		--> UI Script for Print/Processing Session
+    		--> 3GL(Without 4GL Engine)
+      		--> General Library
+		--> Integration DALL
+  		--> DAL
+    		--> DAL(Version 2)
+      		--> Business Object Layer
  
 
 **Shortcuts BECS**
