@@ -1,4 +1,15 @@
 # Technical-ION
+**Window Types**  -- **8** Types
+
+	--> List Window
+ 	--> Dialog Window
+  	--> Synchronized Dialog
+  	--> Modeless Window with menu
+   	--> MOdal Window with menu
+    	--> Wizard
+     	--> Parameter
+      	--> Multi Main Table
+       
 
 
 **Main Table**              **Session**         **Session Type**      **Standard Commands**           **Window types**
