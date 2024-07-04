@@ -1,10 +1,10 @@
 # Technical-ION
 **Sessions**
-Maintain Session
-Update Session
-Charts/Pie Session
-Print Session
-Display Session
+Maintain Session	-->	1
+Update Session		-->	2
+Charts/Pie Session	-->	3
+Print Session		-->	4
+Display Session		-->	5
 
 
 **Window Types**  -- **8** Types
