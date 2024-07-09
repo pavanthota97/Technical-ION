@@ -61,6 +61,13 @@ Display Session		-->	5
   		--> DAL
     		--> DAL(Version 2)
       		--> Business Object Layer
+**To Know how many ENUM/Set in the DOMAIN for the Particular Table Field Enumerated** 
+	Select Domains
+ 	Click on Specific
+  	Enum/set Data
+   	<img width="552" alt="image" src="https://github.com/pavanthota97/Technical-ION/assets/106645385/13ba41e7-ae95-46f3-951b-9ebc4bf18b16">
+
+ 	
 
  **Program Script**
 
