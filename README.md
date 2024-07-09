@@ -61,7 +61,14 @@ Display Session		-->	5
   		--> DAL
     		--> DAL(Version 2)
       		--> Business Object Layer
- 
+
+ **Program Script**
+
+ 	Declaration section
+  	program Section
+   	field Section
+   	group section
+    
 
 **Shortcuts BECS**
 --> To know the Table information (Ctrl + '0')
