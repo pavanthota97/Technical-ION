@@ -83,4 +83,5 @@ Display Session		-->	5
 --> (Ctrl'+'B) is for zoom.
 --> Spacebar to view the CONTROL	BROWSE	MODIFY	FORM	MISCELLANEOUS	APPLICATOIN in the GTI(General Table Informatoin).
 --> To View details of the Properties (Shift + Ctrl + '8')
+-->To Search in the Program script (Ctrl + 'F3')
 
